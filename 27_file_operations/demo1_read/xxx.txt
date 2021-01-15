@@ -1,0 +1,27 @@
+abc
+def
+ghi
+xxx
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+fileObj, err := os.Open("./xxx.txt")
+x
+s
+d
+g
+d
+s
+v
